@@ -38,8 +38,6 @@ Custom SPI controller IP in Verilog integrated with ARM Cortex-A9 via AXI4-Lite,
 ![Verilog](https://img.shields.io/badge/Verilog-black?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![TCL](https://img.shields.io/badge/TCL-3E7BB6?style=for-the-badge)
 
 **Verification & Methodologies**
 
@@ -47,27 +45,67 @@ Custom SPI controller IP in Verilog integrated with ARM Cortex-A9 via AXI4-Lite,
 ![STA](https://img.shields.io/badge/Static%20Timing%20Analysis-blue?style=for-the-badge)
 ![AXI](https://img.shields.io/badge/AMBA%20AXI-purple?style=for-the-badge)
 
-**Tools**
+**EDA / Software Tools**
 
+![Cadence OrCAD](https://img.shields.io/badge/Cadence%20OrCAD-FF6600?style=for-the-badge)
+![Cadence Allegro](https://img.shields.io/badge/Cadence%20Allegro-FF6600?style=for-the-badge)
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-FF6600?style=for-the-badge)
+![Cadence Genus](https://img.shields.io/badge/Cadence%20Genus-FF6600?style=for-the-badge)
+![Cadence Innovus](https://img.shields.io/badge/Cadence%20Innovus-FF6600?style=for-the-badge)
+![Cadence Xcelium](https://img.shields.io/badge/Cadence%20Xcelium-FF6600?style=for-the-badge)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E0115F?style=for-the-badge)
-![Cadence](https://img.shields.io/badge/Cadence-FF6600?style=for-the-badge)
+![Xilinx SDK](https://img.shields.io/badge/Xilinx%20SDK-E0115F?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**FPGA & Embedded**
+**FPGA & Embedded Systems**
 
+![Xilinx ZedBoard](https://img.shields.io/badge/Xilinx%20ZedBoard-E0115F?style=for-the-badge)
+![Vivado IP Integrator](https://img.shields.io/badge/Vivado%20IP%20Integrator-E0115F?style=for-the-badge)
 ![Zephyr RTOS](https://img.shields.io/badge/Zephyr%20RTOS-purple?style=for-the-badge)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-blue?style=for-the-badge)
+![Bare-Metal Programming](https://img.shields.io/badge/Bare--Metal%20Programming-blue?style=for-the-badge)
+![Interrupts](https://img.shields.io/badge/Interrupts-blue?style=for-the-badge)
+![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux Device Driver](https://img.shields.io/badge/Linux%20Device%20Driver-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ARM Cortex](https://img.shields.io/badge/ARM%20Cortex--A9-00579F?style=for-the-badge)
+
+**Physical Design & IC Design**
+
+![RTL-to-GDSII](https://img.shields.io/badge/RTL--to--GDSII%20Flow-FF6600?style=for-the-badge)
+![Digital CMOS IC Design](https://img.shields.io/badge/Digital%20CMOS%20IC%20Design-FF6600?style=for-the-badge)
+![Static Timing Analysis](https://img.shields.io/badge/Static%20Timing%20Analysis-FF6600?style=for-the-badge)
+
+**Verification Methodologies**
+
+![UVM](https://img.shields.io/badge/UVM-blue?style=for-the-badge)
+![Functional Coverage](https://img.shields.io/badge/Functional%20Coverage-blue?style=for-the-badge)
+![Constrained Random Verification](https://img.shields.io/badge/Constrained%20Random%20Verification-blue?style=for-the-badge)
 
 **Protocols**
 
-![AXI](https://img.shields.io/badge/AXI-informational?style=for-the-badge)
+![AMBA AXI](https://img.shields.io/badge/AMBA%20AXI-informational?style=for-the-badge)
+![AMBA AHB](https://img.shields.io/badge/AMBA%20AHB-informational?style=for-the-badge)
+![AMBA APB](https://img.shields.io/badge/AMBA%20APB-informational?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-informational?style=for-the-badge)
 ![UART](https://img.shields.io/badge/UART-informational?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-informational?style=for-the-badge)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-informational?style=for-the-badge)
+
+**Assembly Programming**
+
+![8085](https://img.shields.io/badge/8085-black?style=for-the-badge)
+![x86](https://img.shields.io/badge/x86-black?style=for-the-badge)
+![ARM7TDMI](https://img.shields.io/badge/ARM7TDMI-black?style=for-the-badge)
+
+**Additional Skills**
+
+![PCB Design](https://img.shields.io/badge/PCB%20Design-green?style=for-the-badge)
+![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-green?style=for-the-badge)
+![Computer Networking](https://img.shields.io/badge/Computer%20Networking-green?style=for-the-badge)
+![TCL](https://img.shields.io/badge/TCL-3E7BB6?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
