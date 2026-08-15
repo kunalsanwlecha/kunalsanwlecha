@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal Sanwlecha</h1>
 <h3 align="center">VLSI DESIGN AND VERIFICATION | EMBEDDED | LOW LEVEL SYSTEM SOFTWARE | PCB DESIGN | RTL TO GDSII | FPGA PROTOTYPING | LINUX DEVICE DRIVER</h3>
 
+
+
 ### 🧰 Technical Skills
 
 **Programming & HDL**
@@ -100,10 +102,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kunalsanwlecha&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsanwlecha&layout=compact&theme=radical" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=kunalsanwlecha&show_icons=true&theme=dark&hide_border=false&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsanwlecha&theme=radical" />
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsanwlecha&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsanwlecha&theme=dark&hide_border=false&layout=default" />
 </p>
