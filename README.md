@@ -1,34 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Sanwlecha</h1>
-<h3 align="center">Aspiring ASIC Design Verification Engineer | RTL • UVM • FPGA</h3>
-
----
-
-### 🚀 About Me:
-
-- 🎓 B.Tech in Electronics and Communication Engineering @ **Malaviya National Institute of Technology, Jaipur** (2023 – 2027)
-- 🔬 Focused on **Digital Design, RTL Development & Functional Verification**
-- 🧠 Currently working on:
-  - 32-bit Pipelined MIPS Processor with Branch Prediction & Hazard Detection
-  - AXI4 Verification IP (VIP) using SystemVerilog & UVM
-  - FPGA Zynq OLED Interfacing via Custom SPI Controller
-- 🌱 Currently learning: **RTL-to-GDSII Flow**, **Static Timing Analysis**, **Advanced UVM Methodologies**
-- 💬 Ask me about: **Verilog/SystemVerilog, UVM, FPGA, Embedded C, Digital CMOS IC Design**
-- 📫 Reach me at: **kunalsanwlecha992@gmail.com**
-
----
-
-### 🛠️ Featured Projects
-
-**🔹 32-bit Pipelined MIPS Processor**
-5-stage pipelined MIPS CPU with hazard detection, multi-stage data forwarding, and branch prediction (16-entry history table). 1,500+ lines of synthesizable Verilog RTL, achieving **1.03 CPI** and **97.5% pipeline efficiency**.
-
-**🔹 AXI4 Verification IP (VIP) — SystemVerilog & UVM**
-UVM-based verification environment covering all 5 AXI4 channels with dual master-slave agent architecture, 200+ constrained-random transactions, scoreboard with TLM analysis FIFOs, and functional coverage across burst types & transfer sizes.
-
-**🔹 FPGA Zynq OLED Interfacing via Custom SPI Controller**
-Custom SPI controller IP in Verilog integrated with ARM Cortex-A9 via AXI4-Lite, driving a 128x32 OLED display with a bare-metal C driver, verified end-to-end using Vivado ILA.
-
----
+<h3 align="center">VLSI DESIGN AND VERIFICATION | EMBEDDED | LOW LEVEL SYSTEM SOFTWARE | PCB DESIGN | RTL TO GDSII | FPGA PROTOTYPING | LINUX DEVICE DRIVER</h3>
 
 ### 🧰 Technical Skills
 
